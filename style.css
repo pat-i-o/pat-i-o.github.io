@@ -1,5 +1,5 @@
 body {
-	margin: 10;
+	margin: 0;
 	padding: 0;
 	border: 0;
 	outline: 0;
@@ -10,7 +10,6 @@ body {
 
 a{
 	text-decoration: none;
-	color: #111;
 }
 
 #bio-container{
@@ -29,6 +28,16 @@ a{
 	/* width: 75%; */
 	/*color: #d8366f;*/
 }
+
+#signuplink{
+	font-family: 'Helvetica';
+	font-weight: 500;
+	/* text-align: justify; */
+	font-size: 1.5rem;
+	line-height: 1.3;
+	color: #111;
+}
+
 
 .bio{
 	display: inline;
